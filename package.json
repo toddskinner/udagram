@@ -10,5 +10,7 @@
         "frontend:deploy": "cd udagram-frontend && npm run deploy",
         "backend:deploy": "cd udagram-api && npm run deploy"
     },
-    "devDependencies": {}
+    "devDependencies": {
+        
+    }
 }
