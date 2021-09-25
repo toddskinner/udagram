@@ -2,7 +2,7 @@
 
 Udagram is an application that allows the user to login and post photos and captions. The application can be found at:
 
-[http://udagram-frontend-skinner.s3-website-us-west-1.amazonaws.com]
+http://udagram-frontend-skinner.s3-website-us-west-1.amazonaws.com
 
 See additional documentation in the documentation folder.
 
@@ -14,19 +14,19 @@ See additional documentation in the documentation folder.
 
 ### S3 Frontend
 
-(./documentation/images/S3Frontend.png)
+![S3 FrontEnd](./documentation/images/S3Frontend.png)
 
 ### S3 Images
 
-(./documentation/images/S3Images.png)
+![S3 FrontEnd](./documentation/images/S3Images.png)
 
 ### Infrastructure Diagram
 
-(./documentation/images/InfrastructureDiagram.png)
+![Infrastructure Diagram](./documentation/images/InfrastructureDiagram.png)
 
 ### Pipeline Diagram
 
-(./documentation/images/PipelineDiagram.png)
+![Pipeline Diagram](./documentation/images/PipelineDiagram.png)
 
 ## Built With
 
