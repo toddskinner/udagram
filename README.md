@@ -26,6 +26,8 @@ See additional documentation in the documentation folder.
 
 ### CircleCI
 
+![CircleCI](./documentation/images/circleci.png)
+
 ### Infrastructure Diagram
 
 ![Infrastructure Diagram](./documentation/images/InfrastructureDiagram.png)
