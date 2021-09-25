@@ -10,7 +10,7 @@ See additional documentation in the documentation folder.
 
 ### ElasticBeanstalk Environment
 
-(./documentation/images/EbHealth.png)
+![Elastic Beanstalk Environment](./documentation/images/EbHealth.png)
 
 ### S3 Frontend
 
