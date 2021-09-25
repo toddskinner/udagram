@@ -20,6 +20,12 @@ See additional documentation in the documentation folder.
 
 ![S3 FrontEnd](./documentation/images/S3Images.png)
 
+### RDS
+
+![RDS](./documentation/images/rds.png)
+
+### CircleCI
+
 ### Infrastructure Diagram
 
 ![Infrastructure Diagram](./documentation/images/InfrastructureDiagram.png)
